@@ -104,8 +104,6 @@ namespace MilSim
 
             new DataHandler().AddReport();
             MessageBox.Show("Flight Complete \nProceed to Reports for more detial ");
-
-            Plane.Visible = false;
         }
     }
 }
