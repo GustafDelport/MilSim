@@ -1,0 +1,26 @@
+MillSim V1.0 
+
+Created by: 
+Gustaf Delport 
+Eben Swart  
+Ruan Jansen van Vuuren 
+
+We worked hard to deliver a working project and we feel this  
+project is to the best of our extend we hope that Sir should 
+feel the same way as us 
+
+if there is to be any issues with launching this project, we will 
+be able to assist a video will also be uploaded as proof of concept 
+
+Steps before launch: 
+
+1 : Execute SQL scripts provided. 
+2 : Plot a start and an end  
+3 : See plane move 
+
+Thank you for the time a patience Sir. We are proud of our
+work.
+
+P.S
+
+We created a super cool Server Admin Panel for fun

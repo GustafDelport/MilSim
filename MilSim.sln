@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mainframe", "MilSim\Mainframe.csproj", "{A4EA8018-7FFC-4A9D-9007-FE6286F75911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin_Panel", "Admin_Panel\Admin_Panel.csproj", "{EFE34883-C40E-4800-92B1-4E237C9658B4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A4EA8018-7FFC-4A9D-9007-FE6286F75911} = {A4EA8018-7FFC-4A9D-9007-FE6286F75911}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4EA8018-7FFC-4A9D-9007-FE6286F75911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4EA8018-7FFC-4A9D-9007-FE6286F75911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4EA8018-7FFC-4A9D-9007-FE6286F75911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4EA8018-7FFC-4A9D-9007-FE6286F75911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE34883-C40E-4800-92B1-4E237C9658B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE34883-C40E-4800-92B1-4E237C9658B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE34883-C40E-4800-92B1-4E237C9658B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE34883-C40E-4800-92B1-4E237C9658B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A87E7B7-17BF-4BBF-873E-6378DEC07861}
+	EndGlobalSection
+EndGlobal

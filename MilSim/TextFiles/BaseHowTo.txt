@@ -1,0 +1,15 @@
+How To Create A Enemy Base
+
+Step 1:
+Click on any cell on the grid
+
+Step 2:
+A Menu will pop up
+showing all the camps
+
+Step 3:
+Select the camp
+
+Aditional:
+Click Info to see more
+information
