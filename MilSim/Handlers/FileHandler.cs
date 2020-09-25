@@ -60,7 +60,7 @@ namespace MilSim
 
         public string getDBLocation()
         {
-            string script = File.ReadAllText(@"..\..\..\..\MillSimDB.sql");
+            string script = File.ReadAllText(@"..\..\..\MillSimDB.sql");
             return script;
         }
     }
